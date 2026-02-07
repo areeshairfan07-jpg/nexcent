@@ -1,0 +1,32 @@
+:root{
+    --primarycolor: #4caf4f;
+    --secondarycolor: #f5f7fa;
+}
+.green{
+    background-attachment: var(--primarycolor);
+}
+@font-face{
+
+font-family: "inter"
+}
+.style{
+font-family: "inter";
+font-weight: 500;
+font-size: 11.14px;
+font-style: medium;
+text-align: center;
+line-height: 16.71px;
+letter-spacing: 0%;
+}
+
+.hero{
+    background-color: var(--secondarycolor);
+}
+.colorgreen{
+    color: var(--primarycolor)
+}
+
+.fontsize{
+  
+font-weight: 600; 
+}
