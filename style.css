@@ -3,7 +3,7 @@
     --secondarycolor: #f5f7fa;
 }
 .green{
-    background-attachment: var(--primarycolor);
+    background-color: var(--primarycolor);
 }
 @font-face{
 
@@ -29,4 +29,9 @@ letter-spacing: 0%;
 .fontsize{
   
 font-weight: 600; 
+}
+.clientsoze{
+ font-family: "inter";
+ font-weight: 600;   
+
 }
